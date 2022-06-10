@@ -15,9 +15,10 @@ On publie un message de type pageEvent vers le topic en utilisant un restcontrol
 
  ![3](https://user-images.githubusercontent.com/81563806/173138192-d09554e4-772e-44d2-ab35-9cf5133ca743.PNG)
  
+ une fois qu'on actualise le producer le message se transfère vers le consumer
+ 
  ![4](https://user-images.githubusercontent.com/81563806/173138142-2d7571e0-ec13-4178-aab3-bcce36df93cc.PNG)
  
-une fois qu'on actualise le producer le message se transfère vers le consumer
 
  ![3](https://user-images.githubusercontent.com/81563806/173138307-ea7497c2-9afd-4bb8-ad14-3a826f21a666.PNG)
  
